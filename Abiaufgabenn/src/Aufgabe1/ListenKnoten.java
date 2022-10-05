@@ -25,8 +25,8 @@ public class ListenKnoten<T> {
 		dieListe.entfernenBei(0);
 		return x;
 	}
-
 }
+
 //	
 
 //C: 
